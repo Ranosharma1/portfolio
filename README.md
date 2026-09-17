@@ -52,11 +52,11 @@ Every project featured here represents a step forward in my learning journey.
 
 ## 📬 Let's Connect
 
-📧 Email: Your Email
+📧 Email: ranosharma.rano@gmail.com
 
-💼 LinkedIn: Your LinkedIn Profile
+💼 LinkedIn: https://www.linkedin.com/in/rano-sharma-1958572a6/
 
-💻 GitHub: Your GitHub Profile
+💻 GitHub: https://github.com/Ranosharma1
 
 If you find this portfolio interesting, feel free to star the repository or connect with me. Feedback and suggestions are always appreciated!
 
